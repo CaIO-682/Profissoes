@@ -87,7 +87,7 @@ Ser um desenvolvedor de software envolve uma combinação de habilidades técnic
 
 
 
-# Perícia - Guia Rápido
+# Perícia
 
 ## 📌 O que é Perícia?
 A **Perícia** é uma atividade técnica e especializada que investiga, analisa e produz relatórios baseados em evidências para auxiliar na tomada de decisão em processos judiciais, administrativos ou investigativos.
